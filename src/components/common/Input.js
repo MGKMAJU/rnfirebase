@@ -1,5 +1,5 @@
 import React from "react";
-import { TextInput, View, Text } from "react-native";
+import { TextInput, View, Text,autoCorrect } from "react-native";
 
 const Input = ({
 placeholder,
